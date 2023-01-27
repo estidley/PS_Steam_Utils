@@ -7,7 +7,7 @@
             - "code $profile" or "notepad $profile"
         2. Then save the contents of this file there.
         3. Go back to powershell run:
-            - ".\$profile"
+            - ". $profile"
         4. And the changes should take affect
 
     Default Windows fonts won't work for the new icons.
